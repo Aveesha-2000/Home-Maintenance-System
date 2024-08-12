@@ -42,4 +42,16 @@ If you haven't already, download and install XAMPP.
   
 <img width="822" alt="Screenshot 2024-08-12 at 11 42 02 AM" src="https://github.com/user-attachments/assets/761934fa-55eb-4e51-a067-65549198145d">
 
+<img width="818" alt="Screenshot 2024-08-12 at 11 43 27 AM" src="https://github.com/user-attachments/assets/86258547-644b-4f64-bb09-4463c35f69c2">
+
+<img width="824" alt="Screenshot 2024-08-12 at 11 44 02 AM" src="https://github.com/user-attachments/assets/473b3c3d-345b-46f5-85a8-fa64572674e9">
+
+<img width="827" alt="Screenshot 2024-08-12 at 11 44 18 AM" src="https://github.com/user-attachments/assets/66b80600-8b43-4c36-9e79-77aa9f00828c">
+
+<img width="846" alt="Screenshot 2024-08-12 at 11 44 51 AM" src="https://github.com/user-attachments/assets/cd711f2c-61bc-44c2-aa55-440d4a00538d">
+
+
+
+
+
 

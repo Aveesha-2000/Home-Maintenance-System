@@ -38,3 +38,8 @@ If you haven't already, download and install XAMPP.
 - User Registration and Login
 - Maintenance Request Submission
 - Administrative Dashboard
+
+  
+<img width="822" alt="Screenshot 2024-08-12 at 11 42 02 AM" src="https://github.com/user-attachments/assets/761934fa-55eb-4e51-a067-65549198145d">
+
+
